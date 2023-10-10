@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hello%20and%20welcome%20to%20Snow's%20GitHub👋%20&animation=twinkling&fontSize=25&fontAlignY=40&fontAlign=70&height=250)
 
-[![mail Badge](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:every5116@naver.com)](mailto:nieve3430@gmail.com)
+[![mail Badge](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:every5116@naver.com)](mailto:snowlee0508@gmail.com)
 
 <br>
 
